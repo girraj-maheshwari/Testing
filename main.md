@@ -12,7 +12,11 @@
 <iframe src="https://drive.google.com/file/d/1Un7T-9URKDndNbyzNh-zyIO6WxZw-YYT/preview" width="1430" height="694" allow="autoplay" allowfullscreen>Inventory Rules</iframe>
 '
 
-
+ <iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 mk
 km
 m
