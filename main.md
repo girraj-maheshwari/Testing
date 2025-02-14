@@ -12,6 +12,10 @@
 <iframe src="https://drive.google.com/file/d/1Un7T-9URKDndNbyzNh-zyIO6WxZw-YYT/preview" width="1430" height="694" allow="autoplay" allowfullscreen>Inventory Rules</iframe>
 '
 
+<iframe width="560" height="315" src="https://drive.google.com/file/d/1zGqM5HjeZBltktMe5vJIObOrznV74lvU/view?usp=drive_link" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
  <iframe width="560" height="315"
 src="https://www.youtube.com/embed/MUQfKFzIOeU" 
 frameborder="0" 
